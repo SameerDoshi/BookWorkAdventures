@@ -86,7 +86,7 @@ class StartScreen extends window.Phaser.Scene {
         const questButtonText = this.add.text(
             this.cameras.main.centerX,
             this.cameras.main.centerY + 60,
-            'Start Quest',
+            'Ball Mode',
             {
                 fontSize: '20px',
                 fill: '#fff',
